@@ -7,3 +7,9 @@ body{
 p{
     color: white;
 }
+
+#cabecera{
+    background-color: #c3c3c3;
+    border: 3px solid white;
+    border-radius: 20px;
+}
