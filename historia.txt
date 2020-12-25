@@ -6,12 +6,9 @@ Mi historia es muy bonita.
 
 Hola Adrian.
 
-<<<<<<< HEAD
 Master 1
 
 Master 2
-=======
 Experimento 1
 
 Master 1
->>>>>>> a8bb0aa... Cambios en la rama experimental
