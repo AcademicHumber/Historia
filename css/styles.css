@@ -68,5 +68,14 @@ p{
     width: 60%;
     margin: 0px auto;
     border: 2px solid black;
-    background-color: #eceaea;
+
+    background-color: #222222;
+}
+
+footer{
+    color: white;
+    background-color: #222222;
+    text-align: center;
+    font-size: 1.6rem;
+
 }
